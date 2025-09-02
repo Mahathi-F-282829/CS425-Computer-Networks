@@ -78,13 +78,5 @@ SYN-ACK not received
 - client.cpp: Contains the entire implementation of the TCP client with detailed comments.
 - README.md: This file, explaining how to compile, run, and understand the code.
 
-## Contributors and Work Division
-
-All members contributed equally to this assignment.
-
-- Rohan (220741)  
-  
-- Havish (220879)  
-  
-- Vijay (220602)  
  
+
