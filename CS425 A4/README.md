@@ -76,14 +76,6 @@ Dest  Cost  Next Hop
 - input.txt: Example input file (user-provided)  
 - README.md: This file containing build, run, and explanation details
 
-## Contributors
-
-All members contributed equally to design, implementation, and documentation.
-
-- Rohan (220741)  
-- Havish (220879)  
-- Vijay (220602)
-
 ## Notes
 
 - The adjacency matrix must be symmetric (undirected graph assumption).  
