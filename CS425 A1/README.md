@@ -187,14 +187,6 @@ We initially considered using JSON-based messages for structure but decided agai
 4. Parsing user input correctly to handle various commands properly.
 5. Managing multiple concurrent clients efficiently without thread overload.
 
-## Task Distribution
-| Contributor | Role                                                                                      | Contribution |
-| ----------- | ----------------------------------------------------------------------------------------- | ------------ |
-| Havish      | Design and synchronization mechanisms, Discussion and ideas on other sections             | 33%          |
-| Vijay       | Implementation of server and client communication, Discussion and ideas on other sections | 33%          |
-| Rohan       | Stress Testing, debugging, and documentation, Discussion and ideas on other sections      | 33%          |
-
-
 
 ## Sources Referred
 - Stack Overflow (for specific implementation questions)
